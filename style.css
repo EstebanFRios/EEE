@@ -1,0 +1,139 @@
+*{
+	margin: 0;
+=	padding: 0;
+	box-sizing: content-box;
+}
+
+body{
+	font-family: 'Montserrat', serif;
+}
+
+p{
+	font-family: 'Montserrat', serif;
+	font-size: 20px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.button {
+  background-color: #735F32;
+  border: none;
+  color: #F9F54B;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 17px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+
+.banner1{
+	background: #FEC260;
+	color: #850000;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.banner2{
+	background: #F9F54B;
+	text-align: center;
+	padding: 25px 0;
+	color: #850000;
+}
+
+h2{
+	margin-bottom: 15px;
+	font-size: 30px;
+}
+
+h3{
+	font-size: 40px;
+}
+
+p{
+	margin-bottom: 30px;
+}
+
+.banner3{
+	background: #735F32;
+	text-align: center;
+	padding: 25px 0;
+	color: yellow;
+}
+
+h2{
+	margin-bottom: 15px;
+	font-size: 30px;
+}
+
+h3{
+	font-size: 40px;
+}
+
+p{
+	margin-bottom: 35px;
+}
+
+.banner4{
+	background: tomato;
+	text-align: center;
+	padding: 25px 0;
+	color: yellow;
+}
+
+h2{
+	margin-bottom: 15px;
+	font-size: 30px;
+}
+
+h3{
+	font-size: 40px;
+}
+
+p{
+	margin-bottom: 30px;
+}
+
+.banner5{
+	background: #76A21E;
+	text-align: center;
+	padding: 25px 0;
+	color: #560D0D;
+}
+
+h2{
+	margin-bottom: 15px;
+	font-size: 30px;
+}
+
+h3{
+	font-size: 40px;
+}
+
+p{
+	margin-bottom: 30px;
+}
+
+.banner6{
+	background: #FEC260;
+	color: #850000;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
